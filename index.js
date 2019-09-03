@@ -8,9 +8,10 @@ function takeANumber (katzDeli, name){
     return "Welcome, " + name +". You are number "+ lineNum  + " in line."  
   
 }
-
-function takeANumber2 (deliLine)
-Return "you are customer number" + ""
+var customcount = 1
+function takeANumber2 ()
+  {var numberinline = customcount++
+return "you are customer number" + numberinline}
 
 
 function nowServing(otherDeli, deliLine){
