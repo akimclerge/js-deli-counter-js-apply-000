@@ -9,6 +9,9 @@ function takeANumber (katzDeli, name){
   
 }
 
+function takeANumber2 (deliLine)
+Return "you are customer number" + ""
+
 
 function nowServing(otherDeli, deliLine){
   if (! otherDeli.length){
