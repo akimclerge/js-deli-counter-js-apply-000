@@ -13,6 +13,7 @@ function takeANumber2 ()
   {var numberinline = customcount++
 console.log ("you are customer number" + numberinline)}
 takeANumber2()
+takeANumber2()
 
 
 function nowServing(otherDeli, deliLine){
