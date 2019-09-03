@@ -11,7 +11,7 @@ function takeANumber (katzDeli, name){
 var customcount = 1
 function takeANumber2 ()
   {var numberinline = customcount++
-console.log ("you are customer number" + numberinline)}
+console.log ("you are customer number " + numberinline)}
 takeANumber2()
 takeANumber2()
 
